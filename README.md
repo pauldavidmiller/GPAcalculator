@@ -1,4 +1,5 @@
 # Personal-Projects
-This section is for all of my personal projects that I work on in my free time! Feel free to look through at my work. Most of it is probably amateurish but I am trying and learning :).
+This is my first ever project (GPA calculator by semester) and was created first semester of my college career (I'm just uploading it now though). 
+*This project was not assigned or graded for any class including my CS classes, but instead just for my own experience and learning.*
 
 -Paul
